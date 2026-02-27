@@ -1,0 +1,12 @@
+python -m venv venv
+venv\Scripts\activate
+
+
+pip install streamlit pandas numpy scikit-learn plotly
+
+cd app folder path
+
+streamlit run dashboard.py
+
+
+
